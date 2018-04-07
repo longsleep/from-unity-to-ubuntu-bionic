@@ -1,4 +1,4 @@
-# Notes moving from Unity to Ubunto Bionic 
+# Notes moving from Unity to Ubuntu Bionic 
 
 ## Summary
 
